@@ -8,7 +8,7 @@ by Bo Dong, Wenhai Wang, Deng Ping Fan,Jinpeng Li, Huazhu Fu, & Ling Shao.
 This repository is for our Polyp-PVT.
 
 ### Framework:
-![](https://github.com/DengPingFan/Polyp-PVT/Figs/network.png)
+![](https://github.com/DengPingFan/Polyp-PVT/blob/main/Figs/network.png)
 
 ## Usage:
 ### Requirement:

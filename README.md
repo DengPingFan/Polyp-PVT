@@ -1,6 +1,6 @@
 # Polyp-PVT
 
-by Bo Dong, Wenhai Wang, Deng Ping Fan,Jinpeng Li, Huazhu Fu, and Ling Shao.
+by Bo Dong, Wenhai Wang, Deng Ping Fan,Jinpeng Li, Huazhu Fu, & Ling Shao.
 
 ## Summary:
 

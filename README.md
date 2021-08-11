@@ -34,7 +34,7 @@ You should download the pretrained model from [Google Drive](xxxx), and then put
 You could download the trained model from [Google Drive](xxxxx) and put the model in directory './model_pth'.
 
 ### Compared results:
-We also provide some result of baseline methods, You could download from [Google Drive](xxxxx).
+We also provide some result of baseline methods, You could download from [Google Drive](https://drive.google.com/drive/u/1/folders/1jcC00NycG33Fvre4qYbkYl_r8p0Aqb68).
 
 ### Results:
 

@@ -12,7 +12,7 @@ This repository is for our Polyp-PVT.
 
 ## Usage:
 ### Requirement:
-Pytorch 1.3
+Pytorch 1.7
 Python 3.6
 
 ### Preprocessing:
@@ -33,7 +33,7 @@ You should download the pretrained model from [Google Drive](xxxx), and then put
 ### Well trained model:
 You could download the trained model from [Google Drive](xxxxx) and put the model in directory './model_pth'.
 
-### Baseline model:
+### Compared results:
 We also provide some result of baseline methods, You could download from [Google Drive](xxxxx).
 
 ### Results:

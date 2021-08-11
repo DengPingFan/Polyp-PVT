@@ -28,10 +28,10 @@ bash test.sh
 downloading training and testing datasets and move it into ./dataset/, which can be found in this xxxx.
 
 ### Pretrained model:
-You should download the pretrained model from [Google Drive](xxxx), and then put it in the './pretrained_pth' folder for initialization. 
+You should download the pretrained model from [Google Drive](https://drive.google.com/file/d/1SElFcDAQWLsxNapAK2wkvCMKlD961Djd/view?usp=sharing), and then put it in the './pretrained_pth' folder for initialization. 
 
 ### Well trained model:
-You could download the trained model from [Google Drive](xxxxx) and put the model in directory './model_pth'.
+You could download the trained model from [Google Drive](https://drive.google.com/file/d/1SElFcDAQWLsxNapAK2wkvCMKlD961Djd/view?usp=sharing) and put the model in directory './model_pth'.
 
 ### Compared results:
 We also provide some result of baseline methods, You could download from [Google Drive](https://drive.google.com/drive/u/1/folders/1jcC00NycG33Fvre4qYbkYl_r8p0Aqb68).

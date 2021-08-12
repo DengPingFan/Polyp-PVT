@@ -12,8 +12,9 @@ This repository is for our Polyp-PVT.
 
 ## Usage:
 ### Requirement:
-Pytorch 1.7
-Python 3.6
+Python 3.8
+Pytorch 1.7.1
+torchvision 0.8.2
 
 ### Preprocessing:
 Clone the repository:

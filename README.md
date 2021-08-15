@@ -19,10 +19,8 @@ Polyp-PVT achieves strong performance on image-level polyp segmentation (`0.808 
 video polyp segmentation (`0.880 mean dice` and `0.802 mean IoU` on CVC-300-TV), surpassing previous models by a large margin.
 
 
-### Intoduction:
-This repository is for our Polyp-PVT.
 
-### Framework:
+## Framework Overview
 ![](https://github.com/DengPingFan/Polyp-PVT/blob/main/Figs/network.png)
 
 ## Usage:

@@ -2,6 +2,8 @@
 
 by Bo Dong, Wenhai Wang, Deng Ping Fan,Jinpeng Li, Huazhu Fu, & Ling Shao.
 
+<img src="./Figs/visual.gif" width="100%" />
+
 ## Summary:
 
 ### Intoduction:

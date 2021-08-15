@@ -41,7 +41,7 @@ bash test.sh
 ```
 
 ### Data preparation:
-Downloading training and testing datasets and move them into ./dataset/, which can be found in this [Google Drive](xxxxxx)/[Baidu Drive](https://pan.baidu.com/s/1OBVivLJAs9ZpnB5I2s3lNg)[code:dr1h].
+Downloading training and testing datasets and move them into ./dataset/, which can be found in this [Google Drive](xxxxxx)/[Baidu Drive](https://pan.baidu.com/s/1OBVivLJAs9ZpnB5I2s3lNg) [code:dr1h].
 
 ### Pretrained model:
 You should download the pretrained model from [Google Drive](https://drive.google.com/file/d/1SElFcDAQWLsxNapAK2wkvCMKlD961Djd/view?usp=sharing), and then put it in the './pretrained_pth' folder for initialization. 

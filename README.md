@@ -44,13 +44,16 @@ bash test.sh
 Downloading training and testing datasets and move them into ./dataset/, which can be found in this [Google Drive](xxxxxx)/[Baidu Drive](https://pan.baidu.com/s/1OBVivLJAs9ZpnB5I2s3lNg) [code:dr1h].
 
 ### Pretrained model:
-You should download the pretrained model from [Google Drive](https://drive.google.com/file/d/1SElFcDAQWLsxNapAK2wkvCMKlD961Djd/view?usp=sharing), and then put it in the './pretrained_pth' folder for initialization. 
+You should download the pretrained model from [Google Drive](xxxxxx)/[Baidu Drive](https://pan.baidu.com/s/1Vez7iT2v_g7VYsDxRGE8HA) [code:w4vk], and then put it in the './pretrained_pth' folder for initialization. 
 
 ### Well trained model:
-You could download the trained model from [Google Drive](https://drive.google.com/file/d/1SElFcDAQWLsxNapAK2wkvCMKlD961Djd/view?usp=sharing) and put the model in directory './model_pth'.
+You could download the trained model from [Google Drive](xxxxxx)/[Baidu Drive](https://pan.baidu.com/s/1csPvdWqtbPBGrUWYO346Ug) [code:9rpy] and put the model in directory './model_pth'.
+
+### Pre-computed maps:
+[Google Drive](xxxxxx)/[Baidu Drive](https://pan.baidu.com/s/1UO1VaqXRRFNq23ku9yfMaw) [code:x3jc]
 
 ### Compared results:
-We also provide some result of baseline methods, You could download from [Google Drive](https://drive.google.com/drive/u/1/folders/1jcC00NycG33Fvre4qYbkYl_r8p0Aqb68).
+We also provide some result of baseline methods, You could download from [Google Drive](xxxxxx)/[Baidu Drive](https://pan.baidu.com/s/15Ay_gv3W-ktXvE6UkrsjTA) [code:5tek].
 
 ### Results:
 

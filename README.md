@@ -98,8 +98,8 @@ You could download the trained model from [Google Drive](xxxxxx)/[Baidu Drive](h
 ```
 
 ## Questions:
-Please contact "xx@gmail.com" 
+Please contact "dongbo.cv@gmail.com" 
 
 
 ## License
-This project is released under the [Apache 2.0 license].
+The source code is free for research and education use only. Any comercial use should get formal permission first.

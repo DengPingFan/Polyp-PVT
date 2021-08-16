@@ -38,7 +38,7 @@ video polyp segmentation (`0.880 mean dice` and `0.802 mean IoU` on CVC-300-TV),
 ![](https://github.com/DengPingFan/Polyp-PVT/blob/main/Figs/github_r1.png)
 
 ### 3.2 Image-level Polyp Segmentation Compared Results:
-We also provide some result of baseline methods, You could download from [Google Drive](https://drive.google.com/file/d/1P_2msm8FOpre-G0K-Jgrs4tQis8s2HE7/view?usp=sharing)/[Baidu Drive](https://pan.baidu.com/s/15Ay_gv3W-ktXvE6UkrsjTA) [code:5tek], including our results and that of compared models.
+We also provide some result of baseline methods, You could download from [Google Drive](https://drive.google.com/file/d/1P_2msm8FOpre-G0K-Jgrs4tQis8s2HE7/view?usp=sharing)/[Baidu Drive](https://pan.baidu.com/s/1l29mloGtGzCC-LfTU-BHBA) [code:nhhv], including our results and that of compared models.
 
 ### 3.3 Video Polyp Segmentation
 ![](https://github.com/DengPingFan/Polyp-PVT/blob/main/Figs/github_r2.png)

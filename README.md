@@ -57,6 +57,8 @@ Matlab: Please refer to the work of MICCAI2020 ([link](https://github.com/DengPi
 
 Python: Please refer to the work of ACMMM2021 ([link](https://github.com/plemeri/UACANet)).
 
+Please note that we use the Matlab version to evaluate.
+
 
 ### Well trained model:
 You could download the trained model from [Google Drive](xxxxxx)/[Baidu Drive](https://pan.baidu.com/s/1csPvdWqtbPBGrUWYO346Ug) [code:9rpy] and put the model in directory './model_pth'.
@@ -72,7 +74,14 @@ We also provide some result of baseline methods, You could download from [Google
 
 ## Citation:
 ```
-xxxxx
+@aticle{wang2019shape,
+  title={Polyp-PVT: Polyp Segmentation with PyramidVision Transformers},
+  author={Bo, Dong and Wenhai, Wang and Deng-Ping, Fan and Jinpeng, Li and Huazhu, Fu and Ling, Shao},
+  booktitle={xxxx},
+  pages={xxxx},
+  year={2021}
+}
+
 ```
 
 ## Questions:

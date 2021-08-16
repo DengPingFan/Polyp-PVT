@@ -94,3 +94,7 @@ We also provide some result of baseline methods, You could download from [Google
 
 ## Questions:
 Please contact "xx@gmail.com" 
+
+
+## License
+This project is released under the [Apache 2.0 license].

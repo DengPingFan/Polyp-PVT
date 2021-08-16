@@ -57,7 +57,7 @@ Matlab: Please refer to the work of MICCAI2020 ([link](https://github.com/DengPi
 
 Python: Please refer to the work of ACMMM2021 ([link](https://github.com/plemeri/UACANet)).
 
-Please note that we use the Matlab version to evaluate.
+Please note that we use the Matlab version to evaluate in our paper.
 
 
 ### Well trained model:

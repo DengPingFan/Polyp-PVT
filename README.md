@@ -105,7 +105,7 @@ You could download the trained model from [Google Drive](https://drive.google.co
 
 
 ## 6. FAQ:
-If you want to improve the usability or any piece of advice, please feel free to contact me directly ([E-mail](dongbo.cv@gmail.com)).
+If you want to improve the usability or any piece of advice, please feel free to contact me directly ([E-mail](bodong.cv@gmail.com)).
 
 ## 7. License
 The source code is free for research and education use only. Any comercial use should get formal permission first.

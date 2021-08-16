@@ -96,6 +96,14 @@ You could download the trained model from [Google Drive](https://drive.google.co
 
 ```
 
+
+## 5. TODO LIST
+
+> If you want to improve the usability or any piece of advice, please feel free to contact me directly ([E-mail](dongbo.cv@gmail.com)).
+
+- [ ] Add more comprehensive competitors.
+
+
 ## 6. FAQ:
 Please contact "dongbo.cv@gmail.com" 
 

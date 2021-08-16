@@ -24,14 +24,20 @@ video polyp segmentation (`0.880 mean dice` and `0.802 mean IoU` on CVC-300-TV),
 ![](https://github.com/DengPingFan/Polyp-PVT/blob/main/Figs/network.png)
 
 ## Usage:
-### Requirement:
+### Recommended environment:
 ```
 Python 3.8
 Pytorch 1.7.1
 torchvision 0.8.2
 ```
+### Data preparation:
+Downloading training and testing datasets and move them into ./dataset/, which can be found in this [Google Drive](xxxxxx)/[Baidu Drive](https://pan.baidu.com/s/1OBVivLJAs9ZpnB5I2s3lNg) [code:dr1h].
 
-### Preprocessing:
+
+### Pretrained model:
+You should download the pretrained model from [Google Drive](xxxxxx)/[Baidu Drive](https://pan.baidu.com/s/1Vez7iT2v_g7VYsDxRGE8HA) [code:w4vk], and then put it in the './pretrained_pth' folder for initialization. 
+
+### Training:
 Clone the repository:
 ```
 git clone https://github.com/DengPingFan/Polyp-PVT.git
@@ -40,11 +46,17 @@ bash train.sh
 bash test.sh
 ```
 
-### Data preparation:
-Downloading training and testing datasets and move them into ./dataset/, which can be found in this [Google Drive](xxxxxx)/[Baidu Drive](https://pan.baidu.com/s/1OBVivLJAs9ZpnB5I2s3lNg) [code:dr1h].
+### Testing:
+```
+cd Polyp-PVT 
+bash test.sh
+```
+### 3.2 Evaluating your trained model:
 
-### Pretrained model:
-You should download the pretrained model from [Google Drive](xxxxxx)/[Baidu Drive](https://pan.baidu.com/s/1Vez7iT2v_g7VYsDxRGE8HA) [code:w4vk], and then put it in the './pretrained_pth' folder for initialization. 
+Matlab: Please refer to the work of MICCAI2020 ([link](https://github.com/DengPingFan/PraNet)).
+
+Python: Please refer to the work of ACMMM2021 ([link](https://github.com/plemeri/UACANet)).
+
 
 ### Well trained model:
 You could download the trained model from [Google Drive](xxxxxx)/[Baidu Drive](https://pan.baidu.com/s/1csPvdWqtbPBGrUWYO346Ug) [code:9rpy] and put the model in directory './model_pth'.

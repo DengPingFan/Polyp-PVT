@@ -45,11 +45,11 @@ Pytorch 1.7.1
 torchvision 0.8.2
 ```
 ### 4.2 Data preparation:
-Downloading training and testing datasets and move them into ./dataset/, which can be found in this [Google Drive](xxxxxx)/[Baidu Drive](https://pan.baidu.com/s/1OBVivLJAs9ZpnB5I2s3lNg) [code:dr1h].
+Downloading training and testing datasets and move them into ./dataset/, which can be found in this [Google Drive](https://drive.google.com/file/d/1pFxb9NbM8mj_rlSawTlcXG1OdVGAbRQC/view?usp=sharing)/[Baidu Drive](https://pan.baidu.com/s/1OBVivLJAs9ZpnB5I2s3lNg) [code:dr1h].
 
 
 ### 4.3 Pretrained model:
-You should download the pretrained model from [Google Drive](xxxxxx)/[Baidu Drive](https://pan.baidu.com/s/1Vez7iT2v_g7VYsDxRGE8HA) [code:w4vk], and then put it in the './pretrained_pth' folder for initialization. 
+You should download the pretrained model from [Google Drive](https://drive.google.com/drive/folders/1Eu8v9vMRvt-dyCH0XSV2i77lAd62nPXV?usp=sharing)/[Baidu Drive](https://pan.baidu.com/s/1Vez7iT2v_g7VYsDxRGE8HA) [code:w4vk], and then put it in the './pretrained_pth' folder for initialization. 
 
 ### 4.4 Training:
 Clone the repository:
@@ -57,7 +57,6 @@ Clone the repository:
 git clone https://github.com/DengPingFan/Polyp-PVT.git
 cd Polyp-PVT 
 bash train.sh
-bash test.sh
 ```
 
 ### 4.5 Testing:
@@ -65,6 +64,7 @@ bash test.sh
 cd Polyp-PVT 
 bash test.sh
 ```
+
 ### 4.6 Evaluating your trained model:
 
 Matlab: Please refer to the work of MICCAI2020 ([link](https://github.com/DengPingFan/PraNet)).
@@ -75,10 +75,10 @@ Please note that we use the Matlab version to evaluate in our paper.
 
 
 ### 4.7 Well trained model:
-You could download the trained model from [Google Drive](xxxxxx)/[Baidu Drive](https://pan.baidu.com/s/1csPvdWqtbPBGrUWYO346Ug) [code:9rpy] and put the model in directory './model_pth'.
+You could download the trained model from [Google Drive](https://drive.google.com/drive/folders/1xC5Opwu5Afz4xiK5O9v4NnQOZY0A9-2j?usp=sharing)/[Baidu Drive](https://pan.baidu.com/s/1csPvdWqtbPBGrUWYO346Ug) [code:9rpy] and put the model in directory './model_pth'.
 
 ### 4.8 Pre-computed maps:
-[Google Drive](xxxxxx)/[Baidu Drive](https://pan.baidu.com/s/1UO1VaqXRRFNq23ku9yfMaw) [code:x3jc]
+[Google Drive](https://drive.google.com/drive/folders/1xC5Opwu5Afz4xiK5O9v4NnQOZY0A9-2j?usp=sharing)/[Baidu Drive](https://pan.baidu.com/s/1UO1VaqXRRFNq23ku9yfMaw) [code:x3jc]
 
 
 

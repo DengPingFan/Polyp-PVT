@@ -5,7 +5,7 @@ by Bo Dong, Wenhai Wang, Deng Ping Fan,Jinpeng Li, Huazhu Fu, & Ling Shao.
 This repo is the official implementation of ["Polyp-PVT: Polyp Segmentation with PyramidVision Transformers"](https://arxiv.org/pdf/xxxx.pdf). 
 <img src="./Figs/visual.gif" width="100%" />
 
-## Introduction
+## 1. Introduction
 **Polyp-PVT** is initially described in [arxiv](https://arxiv.org/pdf/xxxx.pdf).
 Most polyp segmentation methods use CNNs as their backbone, leading to two key issues when exchanging information between the encoder and decoder: 1) taking into account the differences in contribution between different-level features; and 2) designing effective mechanism for fusing these features.
 Different from existing CNN-based methods, we adopt a transformer encoder, which learns more powerful and robust representations. 
@@ -20,38 +20,38 @@ video polyp segmentation (`0.880 mean dice` and `0.802 mean IoU` on CVC-300-TV),
 
 
 
-## Framework Overview
+## 2. Framework Overview
 ![](https://github.com/DengPingFan/Polyp-PVT/blob/main/Figs/network.png)
 
 
-## Results
-### Image-level Polyp Segmentation
+## 3. Results
+### 3.1 Image-level Polyp Segmentation
 ![](https://github.com/DengPingFan/Polyp-PVT/blob/main/Figs/github_r1.png)
 
-### Image-level Polyp Segmentation Compared Results:
+### 3.2 Image-level Polyp Segmentation Compared Results:
 We also provide some result of baseline methods, You could download from [Google Drive](xxxxxx)/[Baidu Drive](https://pan.baidu.com/s/15Ay_gv3W-ktXvE6UkrsjTA) [code:5tek].
 
-### Video Polyp Segmentation
+### 3.3 Video Polyp Segmentation
 ![](https://github.com/DengPingFan/Polyp-PVT/blob/main/Figs/github_r2.png)
 
-### Video Polyp Segmentation Compared Results:
+### 3.4 Video Polyp Segmentation Compared Results:
 We also provide some result of baseline methods, You could download from [Google Drive](xxxxxx)/[Baidu Drive](https://pan.baidu.com/s/15Ay_gv3W-XXXXXX) [code:XXXX].
 
-## Usage:
-### Recommended environment:
+## 4. Usage:
+### 4.1 Recommended environment:
 ```
 Python 3.8
 Pytorch 1.7.1
 torchvision 0.8.2
 ```
-### Data preparation:
+### 4.2 Data preparation:
 Downloading training and testing datasets and move them into ./dataset/, which can be found in this [Google Drive](xxxxxx)/[Baidu Drive](https://pan.baidu.com/s/1OBVivLJAs9ZpnB5I2s3lNg) [code:dr1h].
 
 
-### Pretrained model:
+### 4.3 Pretrained model:
 You should download the pretrained model from [Google Drive](xxxxxx)/[Baidu Drive](https://pan.baidu.com/s/1Vez7iT2v_g7VYsDxRGE8HA) [code:w4vk], and then put it in the './pretrained_pth' folder for initialization. 
 
-### Training:
+### 4.4 Training:
 Clone the repository:
 ```
 git clone https://github.com/DengPingFan/Polyp-PVT.git
@@ -60,12 +60,12 @@ bash train.sh
 bash test.sh
 ```
 
-### Testing:
+### 4.5 Testing:
 ```
 cd Polyp-PVT 
 bash test.sh
 ```
-### 3.2 Evaluating your trained model:
+### 4.6 Evaluating your trained model:
 
 Matlab: Please refer to the work of MICCAI2020 ([link](https://github.com/DengPingFan/PraNet)).
 
@@ -74,18 +74,15 @@ Python: Please refer to the work of ACMMM2021 ([link](https://github.com/plemeri
 Please note that we use the Matlab version to evaluate in our paper.
 
 
-### Well trained model:
+### 4.7 Well trained model:
 You could download the trained model from [Google Drive](xxxxxx)/[Baidu Drive](https://pan.baidu.com/s/1csPvdWqtbPBGrUWYO346Ug) [code:9rpy] and put the model in directory './model_pth'.
 
-### Pre-computed maps:
+### 4.8 Pre-computed maps:
 [Google Drive](xxxxxx)/[Baidu Drive](https://pan.baidu.com/s/1UO1VaqXRRFNq23ku9yfMaw) [code:x3jc]
 
 
 
-### Results:
-
-
-## Citation:
+## 5. Citation:
 ```
 @aticle{wang2019shape,
   title={Polyp-PVT: Polyp Segmentation with PyramidVision Transformers},
@@ -97,9 +94,9 @@ You could download the trained model from [Google Drive](xxxxxx)/[Baidu Drive](h
 
 ```
 
-## Questions:
+## 6. FAQ:
 Please contact "dongbo.cv@gmail.com" 
 
 
-## License
+## 7. License
 The source code is free for research and education use only. Any comercial use should get formal permission first.

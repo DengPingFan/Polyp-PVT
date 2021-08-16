@@ -7,6 +7,8 @@ This repo is the official implementation of ["Polyp-PVT: Polyp Segmentation with
 
 ## 1. Introduction
 **Polyp-PVT** is initially described in [arxiv](https://arxiv.org/pdf/xxxx.pdf).
+
+
 Most polyp segmentation methods use CNNs as their backbone, leading to two key issues when exchanging information between the encoder and decoder: 1) taking into account the differences in contribution between different-level features; and 2) designing effective mechanism for fusing these features.
 Different from existing CNN-based methods, we adopt a transformer encoder, which learns more powerful and robust representations. 
 In addition, considering the image acquisition influence and elusive properties of polyps, we introduce three novel modules, including a cascaded fusion module (CFM), a camouflage identification module (CIM), a and similarity aggregation module (SAM).

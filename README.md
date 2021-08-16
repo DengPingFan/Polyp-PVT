@@ -23,6 +23,14 @@ video polyp segmentation (`0.880 mean dice` and `0.802 mean IoU` on CVC-300-TV),
 ## Framework Overview
 ![](https://github.com/DengPingFan/Polyp-PVT/blob/main/Figs/network.png)
 
+
+## Results
+### Image-level Polyp Segmentation
+![](https://github.com/DengPingFan/Polyp-PVT/blob/main/Figs/github_r1.png)
+
+### Video Polyp Segmentation
+![](https://github.com/DengPingFan/Polyp-PVT/blob/main/Figs/github_r2.png)
+
 ## Usage:
 ### Recommended environment:
 ```

@@ -31,13 +31,13 @@ video polyp segmentation (`0.880 mean dice` and `0.802 mean IoU` on CVC-300-TV),
 ![](https://github.com/DengPingFan/Polyp-PVT/blob/main/Figs/github_r1.png)
 
 ### 3.2 Image-level Polyp Segmentation Compared Results:
-We also provide some result of baseline methods, You could download from [Google Drive](xxxxxx)/[Baidu Drive](https://pan.baidu.com/s/15Ay_gv3W-ktXvE6UkrsjTA) [code:5tek].
+We also provide some result of baseline methods, You could download from [Google Drive](xxxxxx)/[Baidu Drive](https://pan.baidu.com/s/15Ay_gv3W-ktXvE6UkrsjTA) [code:5tek], including our results and that of compared models.
 
 ### 3.3 Video Polyp Segmentation
 ![](https://github.com/DengPingFan/Polyp-PVT/blob/main/Figs/github_r2.png)
 
 ### 3.4 Video Polyp Segmentation Compared Results:
-We also provide some result of baseline methods, You could download from [Google Drive](xxxxxx)/[Baidu Drive](https://pan.baidu.com/s/15Ay_gv3W-XXXXXX) [code:XXXX].
+We also provide some result of baseline methods, You could download from [Google Drive](xxxxxx)/[Baidu Drive](https://pan.baidu.com/s/15Ay_gv3W-XXXXXX) [code:XXXX], including our results and that of compared models.
 
 ## 4. Usage:
 ### 4.1 Recommended environment:
@@ -97,16 +97,16 @@ You could download the trained model from [Google Drive](https://drive.google.co
 ```
 
 
-## 5. TODO LIST
+## 6. TODO LIST
 
 > If you want to improve the usability or any piece of advice, please feel free to contact me directly ([E-mail](dongbo.cv@gmail.com)).
 
 - [ ] Add more comprehensive competitors.
 
 
-## 6. FAQ:
+## 7. FAQ:
 Please contact "dongbo.cv@gmail.com" 
 
 
-## 7. License
+## 8. License
 The source code is free for research and education use only. Any comercial use should get formal permission first.

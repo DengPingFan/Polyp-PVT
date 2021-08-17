@@ -2,7 +2,7 @@
 
 by Bo Dong, Wenhai Wang, Deng-Ping Fan, Jinpeng Li, Huazhu Fu, & Ling Shao.
 
-This repo is the official implementation of ["Polyp-PVT: Polyp Segmentation with Pyramid Vision Transformers"](https://arxiv.org/pdf/xxxx.pdf). 
+This repo is the official implementation of ["Polyp-PVT: Polyp Segmentation with Pyramid Vision Transformers"](https://arxiv.org/pdf/2108.06932.pdf). 
 
 
 <img src="./Figs/visual.gif" width="100%" />
@@ -15,7 +15,7 @@ This repo is the official implementation of ["Polyp-PVT: Polyp Segmentation with
 
 
 ## 1. Introduction
-**Polyp-PVT** is initially described in [arxiv](https://arxiv.org/pdf/xxxx.pdf).
+**Polyp-PVT** is initially described in [arxiv](https://arxiv.org/pdf/2108.06932.pdf).
 
 
 Most polyp segmentation methods use CNNs as their backbone, leading to two key issues when exchanging information between the encoder and decoder: 1) taking into account the differences in contribution between different-level features; and 2) designing effective mechanism for fusing these features.
@@ -103,9 +103,11 @@ You could download the trained model from [Google Drive](https://drive.google.co
 }
 ```
 
+## 6. Acknowledgement
+We are very grateful for these excellent works [PraNet](https://github.com/DengPingFan/PraNet), [EAGRNet](https://github.com/tegusi/EAGRNet) and [MSEG](https://github.com/james128333/HarDNet-MSEG), which have provided the basis for our framework.
 
-## 6. FAQ:
+## 7. FAQ:
 If you want to improve the usability or any piece of advice, please feel free to contact me directly (bodong.cv@gmail.com).
 
-## 7. License
+## 8. License
 The source code is free for research and education use only. Any comercial use should get formal permission first.

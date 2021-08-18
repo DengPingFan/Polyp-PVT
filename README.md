@@ -7,11 +7,6 @@ This repo is the official implementation of ["Polyp-PVT: Polyp Segmentation with
 
 <img src="./Figs/visual.gif" width="100%" />
 
-## TODO LIST
-
-> 
-
-- [ ] Add the video polyp segmentation compared results in Section 3.4.
 
 
 ## 1. Introduction

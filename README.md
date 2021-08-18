@@ -46,7 +46,7 @@ We also provide some result of baseline methods, You could download from [Google
 ![](https://github.com/DengPingFan/Polyp-PVT/blob/main/Figs/github_r2.png)
 
 ### 3.4 Video Polyp Segmentation Compared Results:
-We also provide some result of baseline methods, You could download from [Google Drive](xxxxxx)/[Baidu Drive](https://pan.baidu.com/s/15Ay_gv3W-XXXXXX) [code:XXXX], including our results and that of compared models.
+We also provide some result of baseline methods, You could download from [Google Drive](https://drive.google.com/file/d/1mITUCrrKhkwdsqyDd9-TRKF_K79Ehf8N/view?usp=sharing)/[Baidu Drive](https://pan.baidu.com/s/1GhO8gmqBWrE4yYWFI_fn-Q) [code:33ie], including our results and that of compared models.
 
 ## 4. Usage:
 ### 4.1 Recommended environment:

@@ -92,8 +92,8 @@ You could download the trained model from [Google Drive](https://drive.google.co
 ```
 @aticle{dong2021PolypPVT,
   title={Polyp-PVT: Polyp Segmentation with PyramidVision Transformers},
-  author={Bo, Dong and Wenhai, Wang and Deng-Ping, Fan and Jinpeng, Li and Huazhu, Fu and Ling, Shao},
-  journal={arXiv preprint arXiv:2108.06932},
+  author={Bo, Dong and Wenhai, Wang and Jinpeng, Li and Deng-Ping, Fan},
+  journal={arXiv preprint arXiv:2108.06932v3},
   year={2021}
 }
 ```

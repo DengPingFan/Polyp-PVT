@@ -1,6 +1,6 @@
 # Polyp-PVT
 
-by Bo Dong, Wenhai Wang, Deng-Ping Fan, Jinpeng Li, Huazhu Fu, & Ling Shao.
+by Bo Dong, Wenhai Wang, Jinpeng Li, Deng-Ping Fan.
 
 This repo is the official implementation of ["Polyp-PVT: Polyp Segmentation with Pyramid Vision Transformers"](https://arxiv.org/pdf/2108.06932.pdf). 
 

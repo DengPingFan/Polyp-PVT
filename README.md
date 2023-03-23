@@ -90,11 +90,11 @@ You could download the trained model from [Google Drive](https://drive.google.co
 
 ## 5. Citation:
 ```
-@aticle{dong2021PolypPVT,
+@aticle{dong2023PolypPVT,
   title={Polyp-PVT: Polyp Segmentation with PyramidVision Transformers},
   author={Bo, Dong and Wenhai, Wang and Deng-Ping, Fan and Jinpeng, Li and Huazhu, Fu and Ling, Shao},
-  journal={arXiv preprint arXiv:2108.06932v3},
-  year={2021}
+  journal={CAAI AIR},
+  year={2023}
 }
 ```
 
